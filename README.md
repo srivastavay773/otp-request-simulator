@@ -34,3 +34,7 @@ pip install requests
 ## Example
 - Enter the phone number: 9876543210
 - Enter the number of times to send: 5
+
+## Example Output
+
+![Example Output](output.png)
