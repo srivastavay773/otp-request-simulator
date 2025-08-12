@@ -1,3 +1,9 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Repo Size](https://img.shields.io/github/repo-size/srivastavay773/otp-request-simulator)
+![Last Commit](https://img.shields.io/github/last-commit/srivastavay773/otp-request-simulator)
+![Issues](https://img.shields.io/github/issues/srivastavay773/otp-request-simulator)
+
 # OTP Request Simulator (Educational)
 
 A Python script that sends repeated OTP requests to a specified number for the purpose of **testing SMS rate-limiting and anti-spam security measures** in a controlled, authorized environment.
